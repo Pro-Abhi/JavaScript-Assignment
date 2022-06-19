@@ -5,3 +5,6 @@
 
 # 2nd ques. output -
 ![output2](https://user-images.githubusercontent.com/105339279/174460782-e38a7458-32d8-4753-ad25-e9baa28c32dd.png)
+
+# 3rd ques. output -
+![output3](https://user-images.githubusercontent.com/105339279/174460880-24b069e8-ff2a-40cf-b207-ca87d66f1837.png)
