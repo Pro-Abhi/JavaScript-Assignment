@@ -8,3 +8,6 @@
 
 # 3rd ques. output -
 ![output3](https://user-images.githubusercontent.com/105339279/174460880-24b069e8-ff2a-40cf-b207-ca87d66f1837.png)
+
+# 4th ques. output -
+![output4](https://user-images.githubusercontent.com/105339279/174461120-4829a99c-3784-4724-975f-f84d60c99d0c.png)
