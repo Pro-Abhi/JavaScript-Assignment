@@ -15,5 +15,8 @@
 # 5th ques. output -
 ![output5](https://user-images.githubusercontent.com/105339279/174461211-321a6a5c-3194-4f03-9a95-40c06d60bbfb.png)
 
+# 6th ques. output -
+![output6](https://user-images.githubusercontent.com/105339279/174466190-579c3b45-b069-4e9f-b47d-105367718997.png)
+
 # 7th ques. output -
 ![output7](https://user-images.githubusercontent.com/105339279/174461398-e9adb48c-8292-4b8a-8198-6c84e8a85204.png)
